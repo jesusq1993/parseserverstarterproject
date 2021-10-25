@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\build\\intermediates\\merged_res\\debug\\drawable_instagram.png.flat",
+        "source": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\build\\intermediates\\merged_res\\debug\\layout_activity_user_list.xml.flat",
+        "source": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\19033\\StudioProjects\\parseserverstarterproject\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

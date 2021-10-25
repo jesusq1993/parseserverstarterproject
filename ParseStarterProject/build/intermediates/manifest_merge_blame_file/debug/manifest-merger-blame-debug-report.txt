@@ -1,0 +1,90 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.parse.starter"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:6:5-76
+12-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:6:22-73
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:8:5-80
+14-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:9:5-79
+15-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:9:22-76
+16
+17    <application
+17-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:11:5-31:19
+18        android:name="com.parse.starter.StarterApplication"
+18-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:12:9-43
+19        android:allowBackup="true"
+19-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:13:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.5.0] C:\Users\19033\.gradle\caches\transforms-3\97e7ec19bd11dff7ae3d399ac9d0fa5b\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:14:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:15:9-41
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme"
+26-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:16:9-40
+27        android:usesCleartextTraffic="true" >
+27-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:17:9-44
+28        <activity
+28-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:18:9-20:40
+29            android:name="com.parse.starter.UserListActivity"
+29-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:19:13-45
+30            android:exported="false" />
+30-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:20:13-37
+31        <activity
+31-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:21:9-30:20
+32            android:name="com.parse.starter.MainActivity"
+32-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:22:13-41
+33            android:exported="true"
+33-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:23:13-36
+34            android:label="@string/app_name" >
+34-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:24:13-45
+35            <intent-filter>
+35-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:25:13-29:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:26:17-69
+36-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:26:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:28:17-77
+38-->C:\Users\19033\StudioProjects\parseserverstarterproject\ParseStarterProject\src\main\AndroidManifest.xml:28:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\19033\.gradle\caches\transforms-3\c7568e8705f251fef106b4b50c29e8e2\transformed\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+42            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+42-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\19033\.gradle\caches\transforms-3\c7568e8705f251fef106b4b50c29e8e2\transformed\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+43            android:exported="false"
+43-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\19033\.gradle\caches\transforms-3\c7568e8705f251fef106b4b50c29e8e2\transformed\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+44            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+44-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\19033\.gradle\caches\transforms-3\c7568e8705f251fef106b4b50c29e8e2\transformed\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+45
+46        <meta-data
+46-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\19033\.gradle\caches\transforms-3\7bfe9124a72ed5828bff4f6fb297c9a3\transformed\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+47            android:name="com.google.android.gms.version"
+47-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\19033\.gradle\caches\transforms-3\7bfe9124a72ed5828bff4f6fb297c9a3\transformed\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+48            android:value="@integer/google_play_services_version" />
+48-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\19033\.gradle\caches\transforms-3\7bfe9124a72ed5828bff4f6fb297c9a3\transformed\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+49    </application>
+50
+51</manifest>
