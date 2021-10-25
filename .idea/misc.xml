@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="EntryPointsManager">
-    <entry_points version="2.0" />
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/19033/StudioProjects/parseserverstarterproject/ParseStarterProject/src/main/res/layout/activity_main.xml" value="0.30205128205128207" />
+        <entry key="..\:/Users/19033/StudioProjects/parseserverstarterproject/ParseStarterProject/src/main/res/layout/activity_user_list.xml" value="0.35555555555555557" />
+      </map>
+    </option>
   </component>
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
